@@ -1,4 +1,4 @@
-# Lenta_Hack DeepHunch, 2020
+# LentaHack🌻 DeepHunch, 2020
 ## Skoltech,HackLab Course
 
 These notebooks are provided in frames of Lenta Hackathon during HackLab Course at Skoltech. The descriptions of the presented data can be found below.
